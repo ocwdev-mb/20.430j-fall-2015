@@ -1,0 +1,72 @@
+{
+  "term": "Fall",
+  "year": "2015",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Biological Engineering"
+    ],
+    [
+      "Engineering",
+      "Biological Engineering",
+      "Biomaterials"
+    ],
+    [
+      "Engineering",
+      "Mechanical Engineering",
+      "Fluid Mechanics"
+    ],
+    [
+      "Engineering",
+      "Chemical Engineering",
+      "Transport Processes"
+    ],
+    [
+      "Science",
+      "Biology",
+      "Biophysics"
+    ],
+    [
+      "Science",
+      "Biology",
+      "Molecular Biology"
+    ]
+  ],
+  "legacy_uid": "08d97bbb-f9ad-e986-58c8-b2b43cefc9f5",
+  "instructors": {
+    "content": [
+      "affe3290-73b1-5538-b2d0-b61c6c60033a",
+      "6ecc20ef-4c9b-a413-28d4-f6fbfdb2ebcd"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "461f2d02-4957-828d-f403-538f21e6e3dd",
+    "website": "20-430j-fields-forces-and-flows-in-biological-systems-fall-2015"
+  },
+  "course_title": "Fields, Forces, and Flows in Biological Systems",
+  "course_description": "This course covers the fundamental driving forces for transport\u2014chemical gradients, electrical interactions, and fluid flow\u2014as applied to the biology and biophysics of molecules, cells, and tissues.\n",
+  "department_numbers": [
+    "20",
+    "2",
+    "6",
+    "10"
+  ],
+  "extra_course_numbers": "2.795J,6.561J,10.539J",
+  "primary_course_number": "20.430J",
+  "course_image_thumbnail": {
+    "content": "5e82571d-eaed-29d1-2696-33d88ba4ca43",
+    "website": "20-430j-fields-forces-and-flows-in-biological-systems-fall-2015"
+  },
+  "learning_resource_types": [
+    "Problem Sets",
+    "Lecture Notes",
+    "Projects"
+  ],
+  "site_uid": "072be8f6-841c-41fd-891f-bdc4a07bb132",
+  "site_short_id": "20.430j-fall-2015",
+  "title": "Course Metadata"
+}
